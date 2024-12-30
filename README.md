@@ -1,2 +1,2 @@
-# Weather_prediction-
+# Rainfall_prediction-
 binominal  classification
